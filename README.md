@@ -17,3 +17,8 @@ In the example the system just accepts 0 or 1 as value and it switches between M
 ## Issues
 
 If you try to set a PPM value that is out of range, the radio will act as trainer mode is disconnected, make sure you use the correct values for your radio!
+
+
+## Links
+
+I suggest to watch this video to setup your FrSky/OpenTX radio in trainer mode https://www.youtube.com/watch?v=D9Z40WPyjoQ

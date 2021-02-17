@@ -1,7 +1,7 @@
 # PPM Controller
 The repo contains schematic to build a simple board with level shift to 3.3V and firmware to control some channels with a FrSky radio (Spektrum has not been tested yet).
 
-![alt text](https://github.com/max246/ppm-controller/blob/master/images/board.png?raw=true)
+![alt text](https://github.com/max246/ppm-controller/blob/main/images/board.png?raw=true)
 
 ## Board
 The board has two jacks, one for Frsky( TESTED ) and one for Spektrum ( NOT TESTED ), the idea behind this is to allow a wide range of radio to be connect to the board, Spektrum has the possiblity to read as well but it has not been implemented.
